@@ -1,0 +1,15 @@
+{
+  "name": "nodeflash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aryan Mathur",
+  "bin" : {
+    "nodeflash" : "./index.js"
+  },
+  "license": "ISC",
+  "description": "A simple nodemon-like CLI tool"
+}
