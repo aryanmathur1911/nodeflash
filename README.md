@@ -19,3 +19,9 @@ You can install `nodeflash` globally using npm:
 
 ```bash
 npm install -g nodeflash
+```
+### Usage
+
+```bash
+nodeflash <filename that is to be watched>
+```
